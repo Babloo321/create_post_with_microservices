@@ -6,3 +6,9 @@
   <li>Create a service for creating a post with specific id</li>
   <li>Created a list of posts with their id's</li>
 </ul>
+<br/>
+<h2>==Comment Service==</h2>
+<ul>
+  <li>Create a service for creating a comments with given post's id</li>
+  <li>Create a service which lists all comments with a specific post's id</li>
+</ul>
