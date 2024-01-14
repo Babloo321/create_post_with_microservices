@@ -28,7 +28,7 @@
   <li>Which is fetch the data from postman using axios and render the data on user's UI</li>
 </ul>
 <br/>
-<h3><b><em>Asynchronous Communication</em></b></h3>
+<h3><b><em>##Asynchronous Communication##</em></b></h3>
 <ul>
   <li>Harder to understand</li>
   <li>No dependency on another service</li>
@@ -36,4 +36,9 @@
   <li>No Much more connections</li>
   <li>All events gone through the bus events make sure we create a another service to handle the app APIs</li>
   <li>Data duplication</li>
+</ul>
+<h2><b><em>Create an event-bus:=></em></b></h2>
+<ul>
+  <li>send an event inside the event-bus from where creating api</li>
+  <li>event-bus return the data through events through the calling api from otherside</li>
 </ul>
