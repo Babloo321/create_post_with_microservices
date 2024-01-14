@@ -42,3 +42,8 @@
   <li>send an event inside the event-bus from where creating api</li>
   <li>event-bus return the data through events through the calling api from otherside</li>
 </ul>
+<h2><b><em>Create a query service:=></em></b></h2>
+<ul>
+  <li>It's service has both the data post create as well as comment create</li>
+  <li>Through the query service we can extract the data in on single request</li>
+</ul>
