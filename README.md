@@ -47,3 +47,10 @@
   <li>It's service has both the data post create as well as comment create</li>
   <li>Through the query service we can extract the data in on single request</li>
 </ul>
+<h2><b><em>Create a moderation service:=></em></b></h2>
+<ul>
+  <li>It has implemented some functionality to check the commend should be displed</li>
+  <li>If approved than display original comment</li>
+  <li>If pending than display comment is in pending, working in moderation service</li>
+  <li>If reject than display comment is reject that's it</li>
+</ul>
