@@ -54,3 +54,4 @@
   <li>If pending than display comment is in pending, working in moderation service</li>
   <li>If reject than display comment is reject that's it</li>
 </ul>
+<h2><b><em>Introducing Docker:=></em></b></h2>
